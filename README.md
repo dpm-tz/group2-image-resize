@@ -1,1 +1,5 @@
-**ownload the libraries**
+**COURSE: DATA SCIENCE THIRD YEAR**
+**Download the libraries**
+-PILLOW
+-TKINTER
+-PILLOW_HEIF
